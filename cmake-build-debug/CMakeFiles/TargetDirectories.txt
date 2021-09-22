@@ -1,0 +1,3 @@
+/home/etiene/CLionProjects/matrizbidimensional3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/etiene/CLionProjects/matrizbidimensional3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/etiene/CLionProjects/matrizbidimensional3/cmake-build-debug/CMakeFiles/matrizbidimensional3.dir
